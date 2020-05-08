@@ -20,7 +20,8 @@
     "url": "https://github.com/erango/mbox-to-csv/issues"
   },
   "dependencies": {
-    "node-mbox": "1.0.0"
+    "node-mbox": "1.0.0",
+    "mailparser": "2.7.7"
   },
   "homepage": "https://github.com/erango/mbox-to-csv#readme"
 }
