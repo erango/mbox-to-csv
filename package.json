@@ -19,9 +19,6 @@
   "bugs": {
     "url": "https://github.com/erango/mbox-to-csv/issues"
   },
-  "files": [
-    "index.js"
-  ],
   "dependencies": {
     "node-mbox": "1.0.0"
   },
