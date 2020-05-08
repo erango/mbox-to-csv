@@ -1,0 +1,23 @@
+{
+  "name": "mbox-to-csv",
+  "version": "1.0.0",
+  "description": "Convert .mbox email mailbox archives to CSV with extracted data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erango/mbox-to-csv.git"
+  },
+  "keywords": [
+    "mbox",
+    "csv"
+  ],
+  "author": "Eran Goldin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erango/mbox-to-csv/issues"
+  },
+  "homepage": "https://github.com/erango/mbox-to-csv#readme"
+}
